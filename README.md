@@ -59,8 +59,8 @@ Upcoming Updates
 
 License
 =======
-Copyright 2013 Adobe Inc. and RedactiePartners
-http://redactiepartner.nl/
+Copyright 2013 Adobe Inc. and RedactiePartners  
+http://redactiepartners.nl/
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
