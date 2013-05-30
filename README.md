@@ -34,16 +34,16 @@ Instructions
 1. Create a single file for each page (be it PDF, JPG or PNG every page needs it's own file)
 2. follow the following naming convention for the files
 
-	Cover page:
-	PCN1_publication-name-here_date-here.extension-here
-	Inside Cover:
-	PCV2_publication-name-here_date-here.extension-here
-	Inside Back:
-	PCV3_publication-name-here_date-here.extension-here
-	Backside:
-	PCV4_publication-name-here_date-here.extension-here
+	Cover page:  
+	PCN1_publication-name-here_date-here.extension-here  
+	Inside Cover:  
+	PCV2_publication-name-here_date-here.extension-here  
+	Inside Back:  
+	PCV3_publication-name-here_date-here.extension-here  
+	Backside:  
+	PCV4_publication-name-here_date-here.extension-here  
 
-Like so:
+Like so:  
 ![Example File naming](http://i.imgur.com/SKsycgW.jpg)
 
 4. In InDesign open the Scripts Panel
