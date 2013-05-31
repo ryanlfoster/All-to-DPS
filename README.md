@@ -19,7 +19,8 @@ RedactiePartners Version:
 + Creates a Flipbook like style book
 + Create Single full screen Pages for Single Paged Books
 + Automatically Fits the Pages
-+ Options for Background color (current version supports black and white)
++ Inputs for RGB Values for background Color
++ Support for multiple Devices
 
 
 Installation
@@ -54,8 +55,8 @@ Like so:
 Upcoming Updates
 ================
 
-+ Add support to input RGB Values for custom Background Colors
-+ Add a option to choose destination format (currently only iPad 1024x768 is supported)
++ More support for Resolutions (different Devices)
++ Look at possibilities for more advanced cropping system (currently it uses the PDF TrimBox)
 
 License
 =======
