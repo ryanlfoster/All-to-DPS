@@ -4,7 +4,7 @@ All-to-DPS
 This will convert multiple files (jpg, jpeg, png and PDF) to a DPS readable format.
 
 This script is based upon a Adobe Released Script found here:
-[Adobe's script](http://www.adobe.com/devnet/digitalpublishingsuite/articles/dps-pdf-to-indesign.html).
+[Adobe's script](http://www.adobe.com/devnet/digitalpublishingsuite/articles/dps-pdf-to-indesign.html)
 
 This script is a heavilly modified version of that so lets recap the differences:
 Adobe's version
@@ -20,7 +20,10 @@ RedactiePartners Version:
 + Create Single full screen Pages for Single Paged Books
 + Automatically Fits the Pages
 + Inputs for RGB Values for background Color
-+ Support for multiple Devices
++ Support for multiple Devices by providing your own resolution
+
+a good resolution resource can be found here: 
+[Screensizes](http://www.screensiz.es)
 
 
 Installation
@@ -55,7 +58,7 @@ Like so:
 Upcoming Updates
 ================
 
-+ More support for Resolutions (different Devices)
++ Proper commented code
 + Look at possibilities for more advanced cropping system (currently it uses the PDF TrimBox)
 
 License
